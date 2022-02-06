@@ -1,6 +1,6 @@
 {
   "name": "@tnlcommunity/release-config-javascript-actions",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "semantic-release shareable release configurationfor javascript actions",
   "main": "index.js",
   "scripts": {
